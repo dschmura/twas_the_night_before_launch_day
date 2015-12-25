@@ -1,34 +1,34 @@
 ## Twas the Night Before Launchday
 
-Twas the night before Launchday, so I created a branch
-to explore a new feature, without taking a chance
-The master was safely checked into Github
-So I felt fairly confident I would do nothing too dumb
+Twas the night before Launchday, so I created a branch<br>
+to explore a new feature, without taking a chance<br>
+The master was safely checked into Github<br>
+So I felt fairly confident I would do nothing too dumb<br>
 
-With fresh user stories, in a new Trello board
-I set straight to hacking, upon my keyboard
-The migrations were easy, and I kept my code DRY
-When I found myself stymied I just opened pry
+With fresh user stories, in a new Trello board<br>
+I set straight to hacking, upon my keyboard<br>
+The migrations were easy, and I kept my code DRY<br>
+When I found myself stymied I just opened pry<br>
 
-It was like this for hours, oh how the time flew
-I was nearing completion before I even knew
-So I ran the full test suite and prepared to submit
-My newly born feature, pushed the branch up to git
+It was like this for hours, oh how the time flew<br>
+I was nearing completion before I even knew<br>
+So I ran the full test suite and prepared to submit<br>
+My newly born feature, pushed the branch up to git<br>
 
-The code was perfection, all the tests glowing green
-And according to rubocop, the formatting pristine
-And the feature was working, time to submit a request
-To pull this code into master, at a reviewers behest
+The code was perfection, all the tests glowing green<br>
+And according to rubocop, the formatting pristine<br>
+And the feature was working, time to submit a request<br>
+To pull this code into master, at a reviewers behest<br>
 
-With my pull request posted, I waited anxiously
-To see my code merged into the master tree
-When suddenly on Slack there arose such a clatter
-I read through the postings, to see what was the matter
+With my pull request posted, I waited anxiously<br>
+To see my code merged into the master tree<br>
+When suddenly on Slack there arose such a clatter<br>
+I read through the postings, to see what was the matter<br>
 
-The devs were all clacking, away at their keys
-When a big network outage, brought the team to their knees
-'Is the wireless down?' I heard someone query
-'It could be a DOS attack!' someone raised the theory
+The devs were all clacking, away at their keys<br>
+When a big network outage, brought the team to their knees<br>
+'Is the wireless down?' I heard someone query<br>
+'It could be a DOS attack!' someone raised the theory<br>
 
-Tried pinging Heroku, and AWS  
-Even Google and Apple ignored the requests
+Tried pinging Heroku, and AWS<br>
+Even Google and Apple ignored the requests<br>
