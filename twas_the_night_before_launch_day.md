@@ -30,5 +30,5 @@ When a big network outage, brought the team to their knees<br>
 'Is the wireless down?' I heard someone query<br>
 'It could be a DOS attack!' someone raised the theory<br>
 
-Tried pinging Heroku, and AWS<br>
-Even Google and Apple ignored the requests<br>
+Tried pinging [Heroku](http://heroku.com "Heroku"), and [AWS](https://aws.amazon.com "AWS")<br>
+Even [Google](http://google.com "Google") and [Apple](http://apple.com "Apple") ignored the requests<br>
