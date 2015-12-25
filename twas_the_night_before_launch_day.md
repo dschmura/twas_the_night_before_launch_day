@@ -1,0 +1,36 @@
+Twas the Night Before Launchday
+
+===
+
+Twas the night before Launchday, so I created a branch
+to explore a new feature, without taking a chance
+The master was safely checked into Github
+So I felt fairly confident I would do nothing too dumb
+
+With fresh user stories, in a new Trello board
+I set straight to hacking, upon my keyboard
+The migrations were easy, and I kept my code DRY
+When I found myself stymied I just opened pry
+
+It was like this for hours, oh how the time flew
+I was nearing completion before I even knew
+So I ran the full test suite and prepared to submit
+My newly born feature, pushed the branch up to git
+
+The code was perfection, all the tests glowing green
+And according to rubocop, the formatting pristine
+And the feature was working, time to submit a request
+To pull this code into master, at a reviewers behest
+
+With my pull request posted, I waited anxiously
+To see my code merged into the master tree
+When suddenly on Slack there arose such a clatter
+I read through the postings, to see what was the matter
+
+The devs were all clacking, away at their keys
+When a big network outage, brought the team to their knees
+'Is the wireless down?' I heard someone query
+'It could be a DOS attack!' someone raised the theory
+
+Tried pinging Heroku, and AWS  
+Even Google and Apple ignored the requests
